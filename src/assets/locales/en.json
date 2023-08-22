@@ -1,0 +1,10 @@
+{
+  "addTask": "Add Task",
+  "totalTask": "You have {{job}} tasks left!",
+  "enterTask": "Enter task...",
+  "changeLanguage": "Language",
+  "all": "All",
+  "unfinished": "Unfinished",
+  "accomplished": "Accomplished",
+  "dayLeft": "{{day}} left"
+}

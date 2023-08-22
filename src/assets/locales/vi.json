@@ -1,0 +1,10 @@
+{
+  "addTask": "Thêm",
+  "totalTask": "Bạn có {{job}} việc chưa làm!",
+  "enterTask": "Nhập công việc...",
+  "changeLanguage": "Ngôn ngữ",
+  "all": "tất cả",
+  "unfinished": "Chưa hoàn thành",
+  "accomplished": "Đã hoàn thành",
+  "dayLeft": "Còn lại {{day}}"
+}
